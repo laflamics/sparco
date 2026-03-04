@@ -1,0 +1,53 @@
+directories:
+  output: release
+  buildResources: build
+appId: com.sparcolabs.app
+productName: Sparco Labs
+afterSign: null
+afterAllArtifactBuild: null
+beforeBuild: null
+beforePack: ./electron-builder-hooks.js
+files:
+  - filter:
+      - dist/**/*
+      - assets/**/*
+      - Logo.gif
+      - logo2.png
+      - noxtiz.pfx
+      - package.json
+extraFiles:
+  - from: assets/sparcologo.png
+    to: assets/sparcologo.png
+  - from: assets/logo.png
+    to: assets/logo.png
+  - from: assets/logo2.png
+    to: assets/logo2.png
+  - from: Logo.gif
+    to: Logo.gif
+  - from: logo2.png
+    to: logo2.png
+  - from: noxtiz.pfx
+    to: noxtiz.pfx
+win:
+  target:
+    - target: nsis
+      arch:
+        - x64
+    - target: portable
+      arch:
+        - x64
+  icon: assets/sparcologo.png
+  artifactName: ${productName}-${version}-${arch}.${ext}
+  signtoolOptions:
+    signingHashAlgorithms:
+      - sha256
+    timeStampServer: http://timestamp.digicert.com
+nsis:
+  oneClick: false
+  allowToChangeInstallationDirectory: true
+  createDesktopShortcut: true
+  createStartMenuShortcut: true
+  shortcutName: Sparco Labs
+portable:
+  artifactName: ${productName}-${version}-portable.${ext}
+electronVersion: 39.1.2

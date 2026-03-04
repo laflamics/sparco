@@ -1,0 +1,14 @@
+{
+  "extends": "./tsconfig.json",
+  "compilerOptions": {
+    "target": "ES2020",
+    "module": "CommonJS",
+    "moduleResolution": "Node",
+    "outDir": "dist/main",
+    "types": ["node"],
+    "noEmit": false,
+    "isolatedModules": false
+  },
+  "include": ["src/main/**/*"]
+}
+

@@ -1,0 +1,242 @@
+<xml xmlns:v="urn:schemas-microsoft-com:vml"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel">
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="29"/>
+ </o:shapelayout><v:shapetype id="_x0000_t201" coordsize="21600,21600" o:spt="201"
+  path="m,l,21600r21600,l21600,xe">
+  <v:stroke joinstyle="miter"/>
+  <v:path shadowok="f" o:extrusionok="f" strokeok="f" fillok="f" o:connecttype="rect"/>
+  <o:lock v:ext="edit" shapetype="t"/>
+ </v:shapetype><v:shape id="_x0000_s29707" type="#_x0000_t201" style='position:absolute;
+  margin-left:198pt;margin-top:30pt;width:24pt;height:17pt;z-index:1;
+  mso-wrap-style:tight' filled="f" fillcolor="white [9]" stroked="f"
+  strokecolor="windowText [64]" o:insetmode="auto">
+  <v:path shadowok="t" strokeok="t" fillok="t"/>
+  <o:lock v:ext="edit" rotation="t"/>
+  <v:textbox o:singleclick="f">
+   <div style='text-align:left'></div>
+  </v:textbox>
+  <x:ClientData ObjectType="Checkbox">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    2, 44, 2, 2, 2, 92, 3, 5</x:Anchor>
+   <x:AutoFill>False</x:AutoFill>
+   <x:AutoLine>False</x:AutoLine>
+   <x:TextVAlign>Center</x:TextVAlign>
+   <x:FmlaLink>$C$3</x:FmlaLink>
+   <x:NoThreeD/>
+  </x:ClientData>
+ </v:shape><v:shape id="_x0000_s29708" type="#_x0000_t201" style='position:absolute;
+  margin-left:264pt;margin-top:30pt;width:24.5pt;height:17pt;z-index:2;
+  mso-wrap-style:tight' filled="f" fillcolor="white [9]" stroked="f"
+  strokecolor="windowText [64]" o:insetmode="auto">
+  <v:path shadowok="t" strokeok="t" fillok="t"/>
+  <o:lock v:ext="edit" rotation="t"/>
+  <v:textbox o:singleclick="f">
+   <div style='text-align:left'></div>
+  </v:textbox>
+  <x:ClientData ObjectType="Checkbox">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    3, 47, 2, 2, 3, 96, 3, 5</x:Anchor>
+   <x:AutoFill>False</x:AutoFill>
+   <x:AutoLine>False</x:AutoLine>
+   <x:TextVAlign>Center</x:TextVAlign>
+   <x:Checked>1</x:Checked>
+   <x:FmlaLink>$D$3</x:FmlaLink>
+   <x:NoThreeD/>
+  </x:ClientData>
+ </v:shape><v:shape id="_x0000_s29709" type="#_x0000_t201" style='position:absolute;
+  margin-left:326pt;margin-top:30pt;width:24pt;height:17pt;z-index:3;
+  mso-wrap-style:tight' filled="f" fillcolor="white [9]" stroked="f"
+  strokecolor="windowText [64]" o:insetmode="auto">
+  <v:path shadowok="t" strokeok="t" fillok="t"/>
+  <o:lock v:ext="edit" rotation="t"/>
+  <v:textbox o:singleclick="f">
+   <div style='text-align:left'></div>
+  </v:textbox>
+  <x:ClientData ObjectType="Checkbox">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    4, 42, 2, 2, 4, 90, 3, 5</x:Anchor>
+   <x:AutoFill>False</x:AutoFill>
+   <x:AutoLine>False</x:AutoLine>
+   <x:TextVAlign>Center</x:TextVAlign>
+   <x:FmlaLink>$E$3</x:FmlaLink>
+   <x:NoThreeD/>
+  </x:ClientData>
+ </v:shape><v:shape id="_x0000_s29711" type="#_x0000_t201" style='position:absolute;
+  margin-left:458pt;margin-top:30pt;width:24pt;height:17pt;z-index:4;
+  mso-wrap-style:tight' filled="f" fillcolor="white [9]" stroked="f"
+  strokecolor="windowText [64]" o:insetmode="auto">
+  <v:path shadowok="t" strokeok="t" fillok="t"/>
+  <o:lock v:ext="edit" rotation="t"/>
+  <v:textbox o:singleclick="f">
+   <div style='text-align:left'></div>
+  </v:textbox>
+  <x:ClientData ObjectType="Checkbox">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    6, 48, 2, 2, 6, 96, 3, 5</x:Anchor>
+   <x:AutoFill>False</x:AutoFill>
+   <x:AutoLine>False</x:AutoLine>
+   <x:TextVAlign>Center</x:TextVAlign>
+   <x:FmlaLink>$G$3</x:FmlaLink>
+   <x:NoThreeD/>
+  </x:ClientData>
+ </v:shape><v:shape id="_x0000_s29724" type="#_x0000_t201" style='position:absolute;
+  margin-left:390.5pt;margin-top:30pt;width:24pt;height:17pt;z-index:5;
+  mso-wrap-style:tight' filled="f" fillcolor="white [9]" stroked="f"
+  strokecolor="windowText [64]" o:insetmode="auto">
+  <v:path shadowok="t" strokeok="t" fillok="t"/>
+  <o:lock v:ext="edit" rotation="t"/>
+  <v:textbox o:singleclick="f">
+   <div style='text-align:left'></div>
+  </v:textbox>
+  <x:ClientData ObjectType="Checkbox">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    5, 42, 2, 2, 5, 90, 3, 5</x:Anchor>
+   <x:AutoFill>False</x:AutoFill>
+   <x:AutoLine>False</x:AutoLine>
+   <x:TextVAlign>Center</x:TextVAlign>
+   <x:FmlaLink>$F$3</x:FmlaLink>
+   <x:NoThreeD/>
+  </x:ClientData>
+ </v:shape><v:shape id="_x0000_s29728" type="#_x0000_t201" style='position:absolute;
+  margin-left:575.5pt;margin-top:64pt;width:104pt;height:63.5pt;z-index:6;
+  mso-wrap-style:tight' o:button="t" fillcolor="buttonFace [67]" strokecolor="windowText [64]">
+  <v:fill color2="buttonFace [67]" o:detectmouseclick="t"/>
+  <o:lock v:ext="edit" rotation="t"/>
+  <v:textbox inset="3.6pt,1.44pt,3.6pt,1.44pt" o:singleclick="f">
+   <div style='text-align:center'><font face="Arial" size="240" color="#000080"><b>Goal
+   Seek SSP</b></font></div>
+  </v:textbox>
+  <x:ClientData ObjectType="Button">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    8, 3, 4, 11, 9, 60, 9, 0</x:Anchor>
+   <x:AutoFill>False</x:AutoFill>
+   <x:FmlaMacro>[0]!Sheet7.RunScaleSoftPitzerGoalSeek</x:FmlaMacro>
+   <x:TextHAlign>Center</x:TextHAlign>
+   <x:TextVAlign>Center</x:TextVAlign>
+  </x:ClientData>
+ </v:shape><v:shape id="_x0000_s29734" type="#_x0000_t201" style='position:absolute;
+  margin-left:680.5pt;margin-top:1.5pt;width:103.5pt;height:31.5pt;z-index:7;
+  mso-wrap-style:tight' o:button="t" fillcolor="buttonFace [67]" strokecolor="windowText [64]"
+  o:insetmode="auto">
+  <v:fill color2="buttonFace [67]" o:detectmouseclick="t"/>
+  <o:lock v:ext="edit" rotation="t"/>
+  <v:textbox style='mso-direction-alt:auto' o:singleclick="f">
+   <div style='text-align:center'><font face="Arial" size="200" color="#FF0000"><b>Click
+   here: <br>
+      </b></font><font face="Arial" size="200" color="#FF0000"><b>B/D, psia, F</b></font></div>
+  </v:textbox>
+  <x:ClientData ObjectType="Button">
+   <x:Anchor>
+    9, 62, 0, 3, 11, 0, 2, 8</x:Anchor>
+   <x:Locked>False</x:Locked>
+   <x:AutoFill>False</x:AutoFill>
+   <x:FmlaMacro>[0]!Sheet7.UseEnglishUnits</x:FmlaMacro>
+   <x:TextHAlign>Center</x:TextHAlign>
+   <x:TextVAlign>Center</x:TextVAlign>
+  </x:ClientData>
+ </v:shape><v:shape id="_x0000_s29735" type="#_x0000_t201" style='position:absolute;
+  margin-left:679.5pt;margin-top:32pt;width:101pt;height:31pt;z-index:8;
+  mso-wrap-style:tight' o:button="t" fillcolor="buttonFace [67]" strokecolor="windowText [64]"
+  o:insetmode="auto">
+  <v:fill color2="buttonFace [67]" o:detectmouseclick="t"/>
+  <o:lock v:ext="edit" rotation="t"/>
+  <v:textbox style='mso-direction-alt:auto' o:singleclick="f">
+   <div style='text-align:center'><font face="Arial" size="200" color="#FF0000"><b>Click
+   here: <br>
+      </b></font><font face="Arial" size="200" color="#FF0000"><b>m^3/D, bar, C</b></font></div>
+  </v:textbox>
+  <x:ClientData ObjectType="Button">
+   <x:Anchor>
+    9, 60, 2, 6, 10, 105, 4, 9</x:Anchor>
+   <x:Locked>False</x:Locked>
+   <x:AutoFill>False</x:AutoFill>
+   <x:FmlaMacro>[0]!Sheet7.UseSIUnits</x:FmlaMacro>
+   <x:TextHAlign>Center</x:TextHAlign>
+   <x:TextVAlign>Center</x:TextVAlign>
+  </x:ClientData>
+ </v:shape><v:shape id="_x0000_s29739" type="#_x0000_t201" style='position:absolute;
+  margin-left:575pt;margin-top:1pt;width:104pt;height:62pt;z-index:9;
+  mso-wrap-style:tight' o:button="t" fillcolor="buttonFace [67]" strokecolor="windowText [64]">
+  <v:fill color2="buttonFace [67]" o:detectmouseclick="t"/>
+  <o:lock v:ext="edit" rotation="t"/>
+  <v:textbox inset="3.6pt,0,3.6pt,0" o:singleclick="f">
+   <div style='text-align:center'><font face="Arial" size="240" color="#000080"><b>Click
+   here<span style='mso-spacerun:yes'>  </span><br>
+      </b></font><font face="Arial" size="240" color="#000080"><b>to run
+   SSP<span style='mso-spacerun:yes'>  </span></b></font></div>
+  </v:textbox>
+  <x:ClientData ObjectType="Button">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    8, 2, 0, 2, 9, 59, 4, 9</x:Anchor>
+   <x:Locked>False</x:Locked>
+   <x:AutoFill>False</x:AutoFill>
+   <x:FmlaMacro>[0]!Sheet7.Start_ScaleSoftPitzer</x:FmlaMacro>
+   <x:TextHAlign>Center</x:TextHAlign>
+   <x:TextVAlign>Center</x:TextVAlign>
+  </x:ClientData>
+ </v:shape><v:shape id="_x0000_s29743" type="#_x0000_t201" style='position:absolute;
+  margin-left:176pt;margin-top:702.5pt;width:398pt;height:12pt;z-index:10;
+  mso-wrap-style:tight' o:button="t" fillcolor="buttonFace [67]" strokecolor="windowText [64]"
+  o:insetmode="auto">
+  <v:fill color2="buttonFace [67]" o:detectmouseclick="t"/>
+  <o:lock v:ext="edit" rotation="t"/>
+  <v:textbox style='mso-direction-alt:auto' inset=",0,,0" o:singleclick="f">
+   <div style='text-align:center'><font face="Times New Roman" size="200"
+   color="#000080"><b>Click here to run the following quality control checks on
+   the Input data, above. </b></font></div>
+  </v:textbox>
+  <x:ClientData ObjectType="Button">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    2, 0, 49, 2, 8, 0, 49, 26</x:Anchor>
+   <x:AutoFill>False</x:AutoFill>
+   <x:FmlaMacro>[0]!Sheet7.RunQualityControlChecksOnInputSheet</x:FmlaMacro>
+   <x:TextHAlign>Center</x:TextHAlign>
+   <x:TextVAlign>Bottom</x:TextVAlign>
+  </x:ClientData>
+ </v:shape><v:shape id="_x0000_s29746" type="#_x0000_t201" style='position:absolute;
+  margin-left:679.5pt;margin-top:95.5pt;width:101pt;height:31pt;z-index:11;
+  mso-wrap-style:tight' o:button="t" fillcolor="buttonFace [67]" strokecolor="windowText [64]"
+  o:insetmode="auto">
+  <v:fill color2="buttonFace [67]" o:detectmouseclick="t"/>
+  <o:lock v:ext="edit" rotation="t"/>
+  <v:textbox style='mso-direction-alt:auto' o:singleclick="f">
+   <div style='text-align:center'><font face="Arial" size="200" color="#008000"><b>Click
+   here to output SR</b></font></div>
+  </v:textbox>
+  <x:ClientData ObjectType="Button">
+   <x:Anchor>
+    9, 60, 6, 18, 10, 105, 8, 27</x:Anchor>
+   <x:AutoFill>False</x:AutoFill>
+   <x:FmlaMacro>[0]!Sheet7.OutputSRValues</x:FmlaMacro>
+   <x:TextHAlign>Center</x:TextHAlign>
+   <x:TextVAlign>Center</x:TextVAlign>
+  </x:ClientData>
+ </v:shape><v:shape id="_x0000_s29747" type="#_x0000_t201" style='position:absolute;
+  margin-left:679.5pt;margin-top:64pt;width:101pt;height:31.5pt;z-index:12;
+  mso-wrap-style:tight' o:button="t" fillcolor="buttonFace [67]" strokecolor="windowText [64]"
+  o:insetmode="auto">
+  <v:fill color2="buttonFace [67]" o:detectmouseclick="t"/>
+  <o:lock v:ext="edit" rotation="t"/>
+  <v:textbox style='mso-direction-alt:auto' o:singleclick="f">
+   <div style='text-align:center'><font face="Arial" size="200" color="#008000"><b>Click
+   here to output SI</b></font></div>
+  </v:textbox>
+  <x:ClientData ObjectType="Button">
+   <x:Anchor>
+    9, 60, 4, 11, 10, 105, 6, 18</x:Anchor>
+   <x:AutoFill>False</x:AutoFill>
+   <x:FmlaMacro>[0]!Sheet7.OutputSIValues</x:FmlaMacro>
+   <x:TextHAlign>Center</x:TextHAlign>
+   <x:TextVAlign>Center</x:TextVAlign>
+  </x:ClientData>
+ </v:shape></xml>

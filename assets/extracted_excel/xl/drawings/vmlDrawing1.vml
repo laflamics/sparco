@@ -1,0 +1,78 @@
+<xml xmlns:v="urn:schemas-microsoft-com:vml"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel">
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="12"/>
+ </o:shapelayout><v:shapetype id="_x0000_t201" coordsize="21600,21600" o:spt="201"
+  path="m,l,21600r21600,l21600,xe">
+  <v:stroke joinstyle="miter"/>
+  <v:path shadowok="f" o:extrusionok="f" strokeok="f" fillok="f" o:connecttype="rect"/>
+  <o:lock v:ext="edit" shapetype="t"/>
+ </v:shapetype><v:shape id="CommandButton3" o:spid="_x0000_s12293" type="#_x0000_t201"
+  style='position:absolute;margin-left:7.5pt;margin-top:7pt;width:77pt;
+  height:48pt;z-index:1' stroked="f" strokecolor="windowText [64]" o:insetmode="auto">
+  <v:imagedata o:relid="rId1" o:title=""/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    0, 15, 0, 14, 1, 29, 4, 10</x:Anchor>
+   <x:AutoLine>False</x:AutoLine>
+   <x:CF>Pict</x:CF>
+   <x:AutoPict/>
+  </x:ClientData>
+ </v:shape><v:shape id="CommandButton1" o:spid="_x0000_s12295" type="#_x0000_t201"
+  style='position:absolute;margin-left:280pt;margin-top:7pt;width:77pt;
+  height:48pt;z-index:2' stroked="f" strokecolor="windowText [64]" o:insetmode="auto">
+  <v:imagedata o:relid="rId2" o:title=""/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    4, 0, 0, 14, 5, 14, 4, 10</x:Anchor>
+   <x:AutoLine>False</x:AutoLine>
+   <x:CF>Pict</x:CF>
+   <x:AutoPict/>
+  </x:ClientData>
+ </v:shape><v:shape id="_x0000_s12296" type="#_x0000_t201" style='position:absolute;
+  margin-left:141.5pt;margin-top:7pt;width:77pt;height:48pt;z-index:3'
+  stroked="f" strokecolor="windowText [64]" o:insetmode="auto">
+  <v:imagedata o:relid="rId3" o:title=""/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    2, 3, 0, 14, 3, 17, 4, 10</x:Anchor>
+   <x:AutoLine>False</x:AutoLine>
+   <x:CF>Pict</x:CF>
+   <x:AutoPict/>
+  </x:ClientData>
+ </v:shape><v:shapetype id="_x0000_t75" coordsize="21600,21600" o:spt="75"
+  o:preferrelative="t" path="m@4@5l@4@11@9@11@9@5xe" filled="f" stroked="f">
+  <v:stroke joinstyle="miter"/>
+  <v:formulas>
+   <v:f eqn="if lineDrawn pixelLineWidth 0"/>
+   <v:f eqn="sum @0 1 0"/>
+   <v:f eqn="sum 0 0 @1"/>
+   <v:f eqn="prod @2 1 2"/>
+   <v:f eqn="prod @3 21600 pixelWidth"/>
+   <v:f eqn="prod @3 21600 pixelHeight"/>
+   <v:f eqn="sum @0 0 1"/>
+   <v:f eqn="prod @6 1 2"/>
+   <v:f eqn="prod @7 21600 pixelWidth"/>
+   <v:f eqn="sum @8 21600 0"/>
+   <v:f eqn="prod @7 21600 pixelHeight"/>
+   <v:f eqn="sum @10 21600 0"/>
+  </v:formulas>
+  <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"/>
+  <o:lock v:ext="edit" aspectratio="t"/>
+ </v:shapetype><v:shape id="_x0000_s12302" type="#_x0000_t75" style='position:absolute;
+  margin-left:0;margin-top:76.5pt;width:492.5pt;height:623.5pt;z-index:4'
+  filled="t" fillcolor="window [65]" stroked="t" strokecolor="windowText [64]"
+  o:insetmode="auto">
+  <v:fill color2="window [65]"/>
+  <v:imagedata o:relid="rId4" o:title=""/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    0, 0, 6, 3, 7, 5, 56, 0</x:Anchor>
+   <x:CF>Pict</x:CF>
+  </x:ClientData>
+ </v:shape></xml>

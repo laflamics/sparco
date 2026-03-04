@@ -1,0 +1,33 @@
+:root {
+  color-scheme: dark;
+  font-family: 'Segoe UI', 'Roboto', 'Inter', sans-serif;
+  background: radial-gradient(circle at top, rgba(40, 80, 200, 0.1), #03040a 45%);
+  color: #f6f9ff;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  background: linear-gradient(160deg, rgba(5, 9, 18, 1) 0%, rgba(9, 19, 64, 1) 32%, rgba(5, 9, 22, 1) 100%);
+}
+
+#root {
+  min-height: 100vh;
+  display: flex;
+}
+
+a {
+  color: inherit;
+}
+
+button,
+input,
+select,
+textarea {
+  font-family: inherit;
+}
+
