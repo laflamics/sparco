@@ -4,11 +4,11 @@ A futuristic Electron + React lab console buat ngitung dan ngelog prediksi conge
 
 ## Fitur Cepet
 
-- ⚡️ **Electron + React** UI bergaya lab masa depan
-- 🧪 **SARA-based prediction engine** dengan insight stability, crystallization time, sama pour point
-*- 💾 **Local storage** via `electron-store` (histori prediksi max 50 entri per device)
-- 🧠 **Node-cache** buat nge-cache hasil per kombinasi input di mesin masing-masing
-- 🛰 **IPC bridge** aman via preload buat komunikasi renderer ↔ main process
+- **Electron + React** UI lab masa depan
+- **SARA-based prediction engine** dengan insight stability, crystallization time, sama pour point
+*-**Local storage** via `electron-store` (histori prediksi max 50 entri per device)
+- **Node-cache** buat nge-cache hasil per kombinasi input di mesin masing-masing
+- **IPC bridge** aman via preload buat komunikasi renderer ↔ main process
 
 ## Cara Jalanin
 
